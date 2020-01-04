@@ -1,0 +1,6 @@
+Les générateurs de documentation tels doxygen ou javadoc génèrent automatiquement la documentation à partir du code source. 
+Ils extraient le commentaire du code source et créent des manuels de référence sous des formats comme le texte, des fichiers HTML, PDF, DocBook, ou RTF.
+Les documents sur le code sont souvent organisés dans le style d'un guide de référence, ce qui permet à un programmeur de localiser rapidement une fonction ou une classe quelconque.
+L'avantage d'un générateur de documentation à partir du code source est la proximité du code source avec sa documentation codée sous forme de commentaires. 
+Le programmeur peut alors l'écrire en se référant à son code, et peut utiliser les mêmes outils que ceux qu'il a utilisés pour développer le code source, pour faire la documentation. Cela rend beaucoup plus facile la mise à jour de la documentation.
+Bien sûr, l'inconvénient est que seuls les programmeurs peuvent éditer cette sorte de documentation, et c'est d'eux que dépend la mise à jour des sorties (par exemple, en exécutant un crontab pour mettre à jour les documents la nuit). Certains pourraient caractériser cela comme un avantage plutôt que comme un inconvénient. 

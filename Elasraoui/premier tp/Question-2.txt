@@ -1,0 +1,13 @@
+Docutils  avec son célèbre format ReStructuredText, plutôt pour Python
+MakeDoc (REBOL 2000)
+mkd2ex makedoc sous UNIX (multilangage, 1994)  
+OCamlDoc, outil de génération de documentation pour le langage OCaml, développé par l'INRIA;
+POD (Perl)
+RDoc (Ruby)
+ROBODoc (multilangage, y compris les plus courants, mais il peut être aussi étendu3)
+roxygen4 pour le langage R
+SandCastle, outil de génération de documentation pour les langages .Net, édité par Microsoft
+Sphinx, outil de génération de documentation pour le langage Python, développé par la Python Software Foundation;
+TwinText (multilangage, y compris les plus courants, mais il peut être aussi étendu5)
+Visdoc, outil de génération de documentation HTML pour le langage ActionScript 2 (AS2) & 3 (AS3) et Java (MAC uniquement)
+XMLDoc, outil open source de génération de documentation pour les langages .Net (en cours de développement)
